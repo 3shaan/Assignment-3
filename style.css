@@ -1,3 +1,6 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
 .banner-height img{
     max-height: 80vh;
     filter: brightness(50%);
@@ -6,8 +9,9 @@
 .register-height{
     height: 300px;
 }
-
-
+.bg-color{
+    background-color: #F4FAFD;
+}
 
  @media only screen and (max-width:767px) {
     .banner-height img{
