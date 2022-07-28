@@ -5,7 +5,8 @@
 }
 
 
-@media only screen and (max-width:767px) {
+
+ @media only screen and (max-width:767px) {
     .banner-height img{
     height: 400px;
     max-height: 100%;
@@ -13,8 +14,3 @@
 }
 
 
-/* <div class="carousel-caption d-none d-md-block">
-<h1 class="display-4 fw-bold">Get Started Digital <br>Learning</h1>
-<p class="fs-5">This is the era of Digital Technology. <br> If you want to survive upcomimg 4th gen revolution,<br> then you must have to learn Digital Technology.</p>
-<a href="" class="btn btn-primary">Get Started</a>
-</div> */
